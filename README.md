@@ -1,1 +1,1 @@
-### My name is Isaiah Rettig and I'm a CS student at Marist. I'm currently learning more about full-stack development in class and on my own time.
+### My name is Isaiah Rettig and I'm a Games and CS student at Marist. I'm currently learning about full-stack development and game development.
